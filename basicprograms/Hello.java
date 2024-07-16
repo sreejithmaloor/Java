@@ -1,3 +1,4 @@
+package basicprograms;
 class Hello
 {
     
